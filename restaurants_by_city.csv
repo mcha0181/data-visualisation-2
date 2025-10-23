@@ -1,10 +1,10 @@
-﻿City,Number_of_Restaurants,Source
-Melbourne,8020,Google AI Overview (Screenshot)
-Brisbane,6820,Google AI Overview (Screenshot)
-Sydney,6433,Google AI Overview (Screenshot)
-Gold Coast,3519,Google AI Overview (Screenshot)
-Perth,3361,Google AI Overview (Screenshot)
-Adelaide,2290,Google AI Overview (Screenshot)
-Canberra,1782,Google AI Overview (Screenshot)
-Hobart,786,Google AI Overview (Screenshot)
-Newcastle,774,Google AI Overview (Screenshot)
+City,Number_of_Restaurants,Source,lat,lon,businesses
+Melbourne,8020,Google AI Overview (Screenshot),-37.8136,144.9631,8020
+Brisbane,6820,Google AI Overview (Screenshot),-27.4698,153.0251,6820
+Sydney,6433,Google AI Overview (Screenshot),-33.8688,151.2093,6433
+Gold Coast,3519,Google AI Overview (Screenshot),-28.0167,153.4000,3519
+Perth,3361,Google AI Overview (Screenshot),-31.9523,115.8613,3361
+Adelaide,2290,Google AI Overview (Screenshot),-34.9285,138.6007,2290
+Canberra,1782,Google AI Overview (Screenshot),-35.2809,149.1300,1782
+Hobart,786,Google AI Overview (Screenshot),-42.8821,147.3272,786
+Newcastle,774,Google AI Overview (Screenshot),-32.9283,151.7817,774
