@@ -1,0 +1,481 @@
+﻿Suburb,Cuisine,Estimated_Count
+Melbourne CBD,Modern Australian,30
+Melbourne CBD,Chinese,45
+Melbourne CBD,Japanese,24
+Melbourne CBD,Korean,15
+Melbourne CBD,Italian,36
+Melbourne CBD,Vietnamese,24
+Melbourne CBD,Thai,21
+Melbourne CBD,Indian,21
+Melbourne CBD,Middle Eastern,15
+Melbourne CBD,Fast Food,24
+Melbourne CBD,Café / Brunch,30
+Melbourne CBD,European,15
+Carlton,Modern Australian,30
+Carlton,Chinese,45
+Carlton,Japanese,24
+Carlton,Korean,15
+Carlton,Italian,120
+Carlton,Vietnamese,24
+Carlton,Thai,21
+Carlton,Indian,21
+Carlton,Middle Eastern,15
+Carlton,Fast Food,24
+Carlton,Café / Brunch,30
+Carlton,European,15
+Fitzroy,Modern Australian,30
+Fitzroy,Chinese,45
+Fitzroy,Japanese,24
+Fitzroy,Korean,15
+Fitzroy,Italian,36
+Fitzroy,Vietnamese,24
+Fitzroy,Thai,21
+Fitzroy,Indian,21
+Fitzroy,Middle Eastern,15
+Fitzroy,Fast Food,24
+Fitzroy,Café / Brunch,60
+Fitzroy,European,15
+Collingwood,Modern Australian,30
+Collingwood,Chinese,45
+Collingwood,Japanese,24
+Collingwood,Korean,15
+Collingwood,Italian,36
+Collingwood,Vietnamese,24
+Collingwood,Thai,21
+Collingwood,Indian,21
+Collingwood,Middle Eastern,15
+Collingwood,Fast Food,24
+Collingwood,Café / Brunch,30
+Collingwood,European,15
+Southbank,Modern Australian,30
+Southbank,Chinese,45
+Southbank,Japanese,24
+Southbank,Korean,15
+Southbank,Italian,36
+Southbank,Vietnamese,24
+Southbank,Thai,21
+Southbank,Indian,21
+Southbank,Middle Eastern,15
+Southbank,Fast Food,24
+Southbank,Café / Brunch,30
+Southbank,European,15
+Richmond,Modern Australian,30
+Richmond,Chinese,45
+Richmond,Japanese,24
+Richmond,Korean,15
+Richmond,Italian,36
+Richmond,Vietnamese,24
+Richmond,Thai,21
+Richmond,Indian,21
+Richmond,Middle Eastern,15
+Richmond,Fast Food,24
+Richmond,Café / Brunch,30
+Richmond,European,15
+Brunswick,Modern Australian,30
+Brunswick,Chinese,45
+Brunswick,Japanese,24
+Brunswick,Korean,15
+Brunswick,Italian,36
+Brunswick,Vietnamese,24
+Brunswick,Thai,21
+Brunswick,Indian,21
+Brunswick,Middle Eastern,15
+Brunswick,Fast Food,24
+Brunswick,Café / Brunch,30
+Brunswick,European,15
+Northcote,Modern Australian,30
+Northcote,Chinese,45
+Northcote,Japanese,24
+Northcote,Korean,15
+Northcote,Italian,36
+Northcote,Vietnamese,24
+Northcote,Thai,21
+Northcote,Indian,21
+Northcote,Middle Eastern,15
+Northcote,Fast Food,24
+Northcote,Café / Brunch,30
+Northcote,European,15
+Prahran,Modern Australian,30
+Prahran,Chinese,45
+Prahran,Japanese,24
+Prahran,Korean,15
+Prahran,Italian,36
+Prahran,Vietnamese,24
+Prahran,Thai,21
+Prahran,Indian,21
+Prahran,Middle Eastern,15
+Prahran,Fast Food,24
+Prahran,Café / Brunch,30
+Prahran,European,15
+St Kilda,Modern Australian,30
+St Kilda,Chinese,45
+St Kilda,Japanese,24
+St Kilda,Korean,15
+St Kilda,Italian,36
+St Kilda,Vietnamese,24
+St Kilda,Thai,21
+St Kilda,Indian,21
+St Kilda,Middle Eastern,15
+St Kilda,Fast Food,24
+St Kilda,Café / Brunch,45
+St Kilda,European,15
+South Yarra,Modern Australian,30
+South Yarra,Chinese,45
+South Yarra,Japanese,24
+South Yarra,Korean,15
+South Yarra,Italian,36
+South Yarra,Vietnamese,24
+South Yarra,Thai,21
+South Yarra,Indian,21
+South Yarra,Middle Eastern,15
+South Yarra,Fast Food,24
+South Yarra,Café / Brunch,30
+South Yarra,European,15
+Footscray,Modern Australian,30
+Footscray,Chinese,45
+Footscray,Japanese,24
+Footscray,Korean,15
+Footscray,Italian,36
+Footscray,Vietnamese,90
+Footscray,Thai,21
+Footscray,Indian,30
+Footscray,Middle Eastern,15
+Footscray,Fast Food,24
+Footscray,Café / Brunch,30
+Footscray,European,15
+Glenferrie,Modern Australian,20
+Glenferrie,Chinese,30
+Glenferrie,Japanese,16
+Glenferrie,Korean,10
+Glenferrie,Italian,24
+Glenferrie,Vietnamese,16
+Glenferrie,Thai,14
+Glenferrie,Indian,14
+Glenferrie,Middle Eastern,10
+Glenferrie,Fast Food,16
+Glenferrie,Café / Brunch,20
+Glenferrie,European,10
+Box Hill,Modern Australian,20
+Box Hill,Chinese,80
+Box Hill,Japanese,20
+Box Hill,Korean,20
+Box Hill,Italian,24
+Box Hill,Vietnamese,16
+Box Hill,Thai,14
+Box Hill,Indian,14
+Box Hill,Middle Eastern,10
+Box Hill,Fast Food,16
+Box Hill,Café / Brunch,20
+Box Hill,European,10
+Springvale,Modern Australian,20
+Springvale,Chinese,40
+Springvale,Japanese,16
+Springvale,Korean,10
+Springvale,Italian,24
+Springvale,Vietnamese,60
+Springvale,Thai,14
+Springvale,Indian,14
+Springvale,Middle Eastern,10
+Springvale,Fast Food,16
+Springvale,Café / Brunch,20
+Springvale,European,10
+Glen Waverley,Modern Australian,20
+Glen Waverley,Chinese,30
+Glen Waverley,Japanese,16
+Glen Waverley,Korean,10
+Glen Waverley,Italian,24
+Glen Waverley,Vietnamese,16
+Glen Waverley,Thai,14
+Glen Waverley,Indian,14
+Glen Waverley,Middle Eastern,10
+Glen Waverley,Fast Food,16
+Glen Waverley,Café / Brunch,20
+Glen Waverley,European,10
+Doncaster,Modern Australian,20
+Doncaster,Chinese,30
+Doncaster,Japanese,16
+Doncaster,Korean,10
+Doncaster,Italian,24
+Doncaster,Vietnamese,16
+Doncaster,Thai,14
+Doncaster,Indian,14
+Doncaster,Middle Eastern,10
+Doncaster,Fast Food,16
+Doncaster,Café / Brunch,20
+Doncaster,European,10
+Chadstone,Modern Australian,20
+Chadstone,Chinese,30
+Chadstone,Japanese,16
+Chadstone,Korean,10
+Chadstone,Italian,24
+Chadstone,Vietnamese,16
+Chadstone,Thai,14
+Chadstone,Indian,14
+Chadstone,Middle Eastern,10
+Chadstone,Fast Food,16
+Chadstone,Café / Brunch,20
+Chadstone,European,10
+Dandenong,Modern Australian,20
+Dandenong,Chinese,30
+Dandenong,Japanese,16
+Dandenong,Korean,10
+Dandenong,Italian,24
+Dandenong,Vietnamese,16
+Dandenong,Thai,14
+Dandenong,Indian,14
+Dandenong,Middle Eastern,10
+Dandenong,Fast Food,16
+Dandenong,Café / Brunch,20
+Dandenong,European,10
+Oakleigh,Modern Australian,20
+Oakleigh,Chinese,30
+Oakleigh,Japanese,16
+Oakleigh,Korean,10
+Oakleigh,Italian,24
+Oakleigh,Vietnamese,16
+Oakleigh,Thai,14
+Oakleigh,Indian,14
+Oakleigh,Middle Eastern,10
+Oakleigh,Fast Food,16
+Oakleigh,Café / Brunch,20
+Oakleigh,European,10
+Clayton,Modern Australian,20
+Clayton,Chinese,30
+Clayton,Japanese,16
+Clayton,Korean,10
+Clayton,Italian,24
+Clayton,Vietnamese,16
+Clayton,Thai,14
+Clayton,Indian,14
+Clayton,Middle Eastern,10
+Clayton,Fast Food,16
+Clayton,Café / Brunch,20
+Clayton,European,10
+Sunshine,Modern Australian,20
+Sunshine,Chinese,30
+Sunshine,Japanese,16
+Sunshine,Korean,10
+Sunshine,Italian,24
+Sunshine,Vietnamese,16
+Sunshine,Thai,14
+Sunshine,Indian,14
+Sunshine,Middle Eastern,10
+Sunshine,Fast Food,16
+Sunshine,Café / Brunch,20
+Sunshine,European,10
+Werribee,Modern Australian,20
+Werribee,Chinese,30
+Werribee,Japanese,16
+Werribee,Korean,10
+Werribee,Italian,24
+Werribee,Vietnamese,16
+Werribee,Thai,14
+Werribee,Indian,14
+Werribee,Middle Eastern,10
+Werribee,Fast Food,16
+Werribee,Café / Brunch,20
+Werribee,European,10
+Elwood,Modern Australian,20
+Elwood,Chinese,30
+Elwood,Japanese,16
+Elwood,Korean,10
+Elwood,Italian,24
+Elwood,Vietnamese,16
+Elwood,Thai,14
+Elwood,Indian,14
+Elwood,Middle Eastern,10
+Elwood,Fast Food,16
+Elwood,Café / Brunch,20
+Elwood,European,10
+Williamstown,Modern Australian,15
+Williamstown,Chinese,22
+Williamstown,Japanese,12
+Williamstown,Korean,7
+Williamstown,Italian,18
+Williamstown,Vietnamese,12
+Williamstown,Thai,10
+Williamstown,Indian,10
+Williamstown,Middle Eastern,7
+Williamstown,Fast Food,12
+Williamstown,Café / Brunch,15
+Williamstown,European,7
+Camberwell,Modern Australian,15
+Camberwell,Chinese,22
+Camberwell,Japanese,12
+Camberwell,Korean,7
+Camberwell,Italian,18
+Camberwell,Vietnamese,12
+Camberwell,Thai,10
+Camberwell,Indian,10
+Camberwell,Middle Eastern,7
+Camberwell,Fast Food,12
+Camberwell,Café / Brunch,15
+Camberwell,European,7
+Moonee Ponds,Modern Australian,15
+Moonee Ponds,Chinese,22
+Moonee Ponds,Japanese,12
+Moonee Ponds,Korean,7
+Moonee Ponds,Italian,18
+Moonee Ponds,Vietnamese,12
+Moonee Ponds,Thai,10
+Moonee Ponds,Indian,10
+Moonee Ponds,Middle Eastern,7
+Moonee Ponds,Fast Food,12
+Moonee Ponds,Café / Brunch,15
+Moonee Ponds,European,7
+Essendon,Modern Australian,15
+Essendon,Chinese,22
+Essendon,Japanese,12
+Essendon,Korean,7
+Essendon,Italian,18
+Essendon,Vietnamese,12
+Essendon,Thai,10
+Essendon,Indian,10
+Essendon,Middle Eastern,7
+Essendon,Fast Food,12
+Essendon,Café / Brunch,15
+Essendon,European,7
+Brighton,Modern Australian,15
+Brighton,Chinese,22
+Brighton,Japanese,12
+Brighton,Korean,7
+Brighton,Italian,18
+Brighton,Vietnamese,12
+Brighton,Thai,10
+Brighton,Indian,10
+Brighton,Middle Eastern,7
+Brighton,Fast Food,12
+Brighton,Café / Brunch,15
+Brighton,European,7
+Malvern,Modern Australian,15
+Malvern,Chinese,22
+Malvern,Japanese,12
+Malvern,Korean,7
+Malvern,Italian,18
+Malvern,Vietnamese,12
+Malvern,Thai,10
+Malvern,Indian,10
+Malvern,Middle Eastern,7
+Malvern,Fast Food,12
+Malvern,Café / Brunch,15
+Malvern,European,7
+Caulfield,Modern Australian,15
+Caulfield,Chinese,22
+Caulfield,Japanese,12
+Caulfield,Korean,7
+Caulfield,Italian,18
+Caulfield,Vietnamese,12
+Caulfield,Thai,10
+Caulfield,Indian,10
+Caulfield,Middle Eastern,7
+Caulfield,Fast Food,12
+Caulfield,Café / Brunch,15
+Caulfield,European,7
+Ascot Vale,Modern Australian,15
+Ascot Vale,Chinese,22
+Ascot Vale,Japanese,12
+Ascot Vale,Korean,7
+Ascot Vale,Italian,18
+Ascot Vale,Vietnamese,12
+Ascot Vale,Thai,10
+Ascot Vale,Indian,10
+Ascot Vale,Middle Eastern,7
+Ascot Vale,Fast Food,12
+Ascot Vale,Café / Brunch,15
+Ascot Vale,European,7
+Geelong,Modern Australian,12
+Geelong,Chinese,18
+Geelong,Japanese,9
+Geelong,Korean,6
+Geelong,Italian,14
+Geelong,Vietnamese,9
+Geelong,Thai,8
+Geelong,Indian,8
+Geelong,Middle Eastern,6
+Geelong,Fast Food,9
+Geelong,Café / Brunch,12
+Geelong,European,6
+Ballarat,Modern Australian,12
+Ballarat,Chinese,18
+Ballarat,Japanese,9
+Ballarat,Korean,6
+Ballarat,Italian,14
+Ballarat,Vietnamese,9
+Ballarat,Thai,8
+Ballarat,Indian,8
+Ballarat,Middle Eastern,6
+Ballarat,Fast Food,9
+Ballarat,Café / Brunch,12
+Ballarat,European,6
+Bendigo,Modern Australian,12
+Bendigo,Chinese,18
+Bendigo,Japanese,9
+Bendigo,Korean,6
+Bendigo,Italian,14
+Bendigo,Vietnamese,9
+Bendigo,Thai,8
+Bendigo,Indian,8
+Bendigo,Middle Eastern,6
+Bendigo,Fast Food,9
+Bendigo,Café / Brunch,12
+Bendigo,European,6
+Warrnambool,Modern Australian,12
+Warrnambool,Chinese,18
+Warrnambool,Japanese,9
+Warrnambool,Korean,6
+Warrnambool,Italian,14
+Warrnambool,Vietnamese,9
+Warrnambool,Thai,8
+Warrnambool,Indian,8
+Warrnambool,Middle Eastern,6
+Warrnambool,Fast Food,9
+Warrnambool,Café / Brunch,12
+Warrnambool,European,6
+Shepparton,Modern Australian,12
+Shepparton,Chinese,18
+Shepparton,Japanese,9
+Shepparton,Korean,6
+Shepparton,Italian,14
+Shepparton,Vietnamese,9
+Shepparton,Thai,8
+Shepparton,Indian,8
+Shepparton,Middle Eastern,6
+Shepparton,Fast Food,9
+Shepparton,Café / Brunch,12
+Shepparton,European,6
+Hawthorn,Modern Australian,12
+Hawthorn,Chinese,18
+Hawthorn,Japanese,9
+Hawthorn,Korean,6
+Hawthorn,Italian,14
+Hawthorn,Vietnamese,9
+Hawthorn,Thai,8
+Hawthorn,Indian,8
+Hawthorn,Middle Eastern,6
+Hawthorn,Fast Food,9
+Hawthorn,Café / Brunch,12
+Hawthorn,European,6
+Preston,Modern Australian,12
+Preston,Chinese,18
+Preston,Japanese,9
+Preston,Korean,6
+Preston,Italian,14
+Preston,Vietnamese,9
+Preston,Thai,8
+Preston,Indian,8
+Preston,Middle Eastern,6
+Preston,Fast Food,9
+Preston,Café / Brunch,12
+Preston,European,6
+Point Cook,Modern Australian,12
+Point Cook,Chinese,18
+Point Cook,Japanese,9
+Point Cook,Korean,6
+Point Cook,Italian,14
+Point Cook,Vietnamese,9
+Point Cook,Thai,8
+Point Cook,Indian,8
+Point Cook,Middle Eastern,6
+Point Cook,Fast Food,9
+Point Cook,Café / Brunch,12
+Point Cook,European,6
