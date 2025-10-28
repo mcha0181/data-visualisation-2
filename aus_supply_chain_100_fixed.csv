@@ -1,0 +1,101 @@
+Supplier,Ingredient,Origin_Country,Local_vs_Imported,Latitude,Longitude
+Supplier_1,Coconut Oil,India,Imported,18.15,76.65
+Supplier_2,Fruits,Thailand,Imported,16.419,102.06
+Supplier_3,Cauliflower,China,Imported,35.543,100.191
+Supplier_4,Potatoes,Japan,Imported,34.396,138.612
+Supplier_5,Prawns,Japan,Imported,37.296,139.208
+Supplier_6,Paprika,USA,Imported,36.695,-96.331
+Supplier_7,Beef,South Africa,Imported,-28.165,26.189
+Supplier_8,Peas,Brazil,Imported,-12.067,-52.257
+Supplier_9,Peas,India,Imported,18.556,75.58
+Supplier_10,Beans,Chile,Imported,-36.413,-73.739
+Supplier_11,Apple,Turkey,Imported,36.749,37.534
+Supplier_12,Tomatoes,Turkey,Imported,37.759,35.772
+Supplier_13,Seaweed,Germany,Imported,49.154,7.417
+Supplier_14,Herbs,USA,Imported,38.638,-92.089
+Supplier_15,Vegetables,India,Imported,20.281,77.72
+Supplier_16,Seaweed,Vietnam,Imported,13.221,106.257
+Supplier_17,Bread,Mexico,Imported,25.62,-101.112
+Supplier_18,Butter Oil,Canada,Imported,54.027,-104.625
+Supplier_19,Oil,South Korea,Imported,35.277,130.937
+Supplier_20,Coconut Oil,Mexico,Imported,23.342,-100.892
+Supplier_21,Grapes,South Africa,Imported,-32.664,26.931
+Supplier_22,Seafood,France,Imported,44.606,0.266
+Supplier_23,Crab,Mexico,Imported,21.888,-101.067
+Supplier_24,Lime,Canada,Imported,55.753,-107.411
+Supplier_25,Nuts,UK,Imported,54.368,-3.424
+Supplier_26,Turkey,Philippines,Imported,15.387,121.396
+Supplier_27,Fruits,Thailand,Imported,15.057,98.545
+Supplier_28,Wheat,India,Imported,18.917,75.96
+Supplier_29,Ice Cream,Philippines,Imported,13.578,121.309
+Supplier_30,Frozen Meat,South Korea,Imported,36.175,130.826
+Supplier_31,Chicken,Argentina,Imported,-36.676,-61.91
+Supplier_32,Broccoli,South Africa,Imported,-31.399,25.846
+Supplier_33,Garlic,Indonesia,Imported,-5.391,119.722
+Supplier_34,Mustard,UK,Imported,52.58,-1.996
+Supplier_35,Vinegar,Greece,Imported,41.476,24.223
+Supplier_36,Soy Sauce,Canada,Imported,56.046,-107.807
+Supplier_37,Oats,South Africa,Imported,-32.031,27.721
+Supplier_38,Lettuce,Australia,Local,-24.406,134.932
+Supplier_39,Garlic,Italy,Imported,44.272,13.99
+Supplier_40,Juice,USA,Imported,34.348,-92.732
+Supplier_41,Tomatoes,China,Imported,36.391,104.896
+Supplier_42,Sweet Potato,Turkey,Imported,40.595,32.77
+Supplier_43,Orange,Turkey,Imported,36.991,35.166
+Supplier_44,Butter Oil,Philippines,Imported,15.786,124.573
+Supplier_45,Cassava,UK,Imported,55.139,-0.722
+Supplier_46,Lemon,Argentina,Imported,-37.101,-63.371
+Supplier_47,Cabbage,South Korea,Imported,33.726,126.348
+Supplier_48,Peas,Australia,Local,-24.47,133.381
+Supplier_49,Fruits,Australia,Local,-27.574,135.787
+Supplier_50,Vegetables,China,Imported,37.433,105.158
+Supplier_51,Salt,Greece,Imported,37.428,23.014
+Supplier_52,Chocolate,Turkey,Imported,36.794,37.613
+Supplier_53,Duck,Germany,Imported,50.836,11.708
+Supplier_54,Pepper,Japan,Imported,33.566,138.954
+Supplier_55,Lentils,Philippines,Imported,12.467,124.183
+Supplier_56,Wheat,Argentina,Imported,-37.079,-62.123
+Supplier_57,Flour,France,Imported,47.369,3.804
+Supplier_58,Onions,USA,Imported,35.15,-94.782
+Supplier_59,Cheese,Philippines,Imported,11.101,121.776
+Supplier_60,Salt,South Korea,Imported,37.848,130.136
+Supplier_61,Carrots,New Zealand,Imported,-40.387,175.044
+Supplier_62,Chicken,China,Imported,37.558,105.092
+Supplier_63,Olive Oil,Philippines,Imported,12.914,120.282
+Supplier_64,Lemon,New Zealand,Imported,-43.312,171.813
+Supplier_65,Palm Oil,Brazil,Imported,-7.441,-53.289
+Supplier_66,Sauce,Philippines,Imported,14.18,123.383
+Supplier_67,Prawns,Argentina,Imported,-36.69,-65.071
+Supplier_68,Tofu,Japan,Imported,38.812,138.475
+Supplier_69,Cauliflower,New Zealand,Imported,-39.812,172.143
+Supplier_70,Turkey,Malaysia,Imported,4.017,104.116
+Supplier_71,Oil,New Zealand,Imported,-38.535,172.281
+Supplier_72,Wine,China,Imported,35.57,104.051
+Supplier_73,Honey,France,Imported,43.719,4.342
+Supplier_74,Nuts,Germany,Imported,51.567,10.716
+Supplier_75,Paprika,Argentina,Imported,-37.498,-62.863
+Supplier_76,Eggs,Japan,Imported,37.018,136.885
+Supplier_77,Eggs,France,Imported,43.785,2.873
+Supplier_78,Apple,Spain,Imported,42.574,-1.386
+Supplier_79,Chicken,South Korea,Imported,36.727,128.378
+Supplier_80,Carrots,China,Imported,35.226,103.035
+Supplier_81,Milk,Italy,Imported,44.285,14.276
+Supplier_82,Oats,Indonesia,Imported,-7.054,122.002
+Supplier_83,Mayonnaise,Indonesia,Imported,-4.33,122.923
+Supplier_84,Mushrooms,Greece,Imported,36.047,23.903
+Supplier_85,Soy Sauce,Argentina,Imported,-40.378,-60.731
+Supplier_86,Eggs,India,Imported,23.338,79.455
+Supplier_87,Butter,Brazil,Imported,-11.309,-56.736
+Supplier_88,Peas,Japan,Imported,37.125,140.117
+Supplier_89,Berry Mix,Malaysia,Imported,2.507,104.449
+Supplier_90,Wheat,China,Imported,35.806,104.976
+Supplier_91,Rice,Australia,Local,-25.999,132.785
+Supplier_92,Eggs,Vietnam,Imported,15.447,108.31
+Supplier_93,Basil,Turkey,Imported,36.058,32.451
+Supplier_94,Biscuits,Thailand,Imported,15.274,103.008
+Supplier_95,Turkey,Turkey,Imported,36.889,32.765
+Supplier_96,Juice,Italy,Imported,44.394,13.777
+Supplier_97,Rice,Italy,Imported,40.26,10.497
+Supplier_98,Onions,Italy,Imported,43.681,14.305
+Supplier_99,Pepper,Chile,Imported,-33.503,-68.445
+Supplier_100,Honey,Vietnam,Imported,16.857,109.865
