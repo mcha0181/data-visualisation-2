@@ -1,0 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Number of Restaurants by Australian City",
+  "width": 700,
+  "height": 520,
+  "projection": {"type": "mercator"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://vega.github.io/vega-datasets/data/world-110m.json",
+        "format": {"type": "topojson", "feature": "countries"}
+      },
+      "transform": [{"filter": "datum.id==36"}],
+      "mark": {"type": "geoshape", "fill": "#f5f7fa", "stroke": "#cdd5df"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/mcha0181/data-visualisation-2/refs/heads/main/restaurants_by_city.csv",
+        "format": {"type": "csv"}
+      },
+      "mark": {"type": "circle", "stroke": "white", "strokeWidth": 1},
+      "encoding": {
+        "longitude": {"field": "lon", "type": "quantitative"},
+        "latitude": {"field": "lat", "type": "quantitative"},
+        "size": {"field": "businesses", "type": "quantitative", "title": "Number of Restaurants"},
+        "color": {"field": "businesses", "type": "quantitative", "legend": null},
+        "tooltip": [
+          {"field": "City", "type": "nominal", "title": "City"},
+          {"field": "businesses", "type": "quantitative", "title": "No. of Restaurants"}
+        ]
+      }
+    }
+  ],
+  "config": {"view": {"stroke": null}}
+}
